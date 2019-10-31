@@ -1,1 +1,1 @@
-# Breakout-Clone
+This program is my breakout clone. I have made it faster and more rapid to prevent that sense of boredom you get from waiting for the ball to come back. It also requires you to be on your toes! So have fun!
